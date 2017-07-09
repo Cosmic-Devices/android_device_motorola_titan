@@ -1,12 +1,13 @@
 [
   {
-    "repository": "android_device_motorola_msm8226-common",
+    "repository": "Cosmic-Devices/android_device_motorola_msm8226-common",
     "target_path": "device/motorola/msm8226-common",
+    "revision":  "n-mr2"
   },
   {
-    "repository": "LineageOS/android_kernel_motorola_msm8226",
+    "repository": "Cosmic-Devices/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "revision":  "cm-14.1"
+    "revision":  "n-mr2"
   },   
   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
@@ -21,11 +22,6 @@
   {
     "repository": "LineageOS/android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat",
-    "revision":  "cm-14.1"
-  },
-  {
-    "repository": "LineageOS/android_device_qcom_common",
-    "target_path": "device/qcom/common",
     "revision":  "cm-14.1"
   }
 ]

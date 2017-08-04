@@ -6,10 +6,10 @@
     "branch ":  "n-mr2"
   },
   {
-    "remote":     "devices",
-    "repository": "android_kernel_motorola_msm8226",
+    "remote":     "github",
+    "repository": "LineageOS/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "branch":  "n-mr2"
+    "branch":  "cm-14.1"
   },   
   {
     "remote":     "github",

@@ -7,9 +7,9 @@
   },
   {
     "remote":     "github",
-    "repository": "LineageOS/android_kernel_motorola_msm8226",
+    "repository": "Cosmic-Devices/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
-    "branch":  "cm-14.1"
+    "branch ":  "n-mr2"
   },   
   {
     "remote":     "github",

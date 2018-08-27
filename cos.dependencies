@@ -1,0 +1,32 @@
+[
+  {
+    "remote":     "github", 
+    "repository": "Cosmic-Devices/android_device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common"
+    "branch ":  "pulsar-release"
+  },
+  {
+    "remote":     "github", 
+    "repository": "Cosmic-Devices/android_kernel_motorola_msm8226",
+    "target_path": "kernel/motorola/msm8226"
+    "branch ":  "pulsar-release"
+  },
+   {
+    "remote":     "github", 
+    "repository": "Cosmic-Devices/proprietary_vendor_motorola",
+    "target_path": "proprietary/vendor/motorola"
+    "branch ":  "pulsar-release"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "repository": "android_external_connectivity,
+    "target_path": "external/connectivity"
+  }
+]
